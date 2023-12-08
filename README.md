@@ -13,7 +13,9 @@
 ### 工具
 
 pdf文件在线处理：[ilovepdf](https://www.ilovepdf.com)
+
 数学公式：[geogebra](https://www.geogebra.org/)
+
 图片及pdf处理：[docsmall](https://docsmall.com)
 
 
@@ -33,7 +35,7 @@ pdf文件在线处理：[ilovepdf](https://www.ilovepdf.com)
 
 ### 激活工具
 
-jetbrains：[jetbrains全家桶激活]([JETBRA.IN CHECKER | IPFS](https://3.jetbra.in/))
+jetbrains全家桶激活：[JETBRA.IN CHECKER | IPFS](https://3.jetbra.in/)
 
 adobe：[adobe全家桶](https://www.weibo.com/vposy)
 
