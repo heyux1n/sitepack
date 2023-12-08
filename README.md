@@ -13,7 +13,13 @@
 ### 工具
 
 pdf文件在线处理：[ilovepdf](https://www.ilovepdf.com)
+数学公式：[geogebra](https://www.geogebra.org/)
+图片及pdf处理：[docsmall](https://docsmall.com)
 
+
+### 前端组件库
+
+[daisyui](https://daisyui.com/)
 
 
 ### 算法
