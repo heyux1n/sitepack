@@ -56,6 +56,10 @@ adobe：[adobe全家桶](https://www.weibo.com/vposy)
 [站长工具大全](http://tool.lusongsong.com/)
 
 
+### 文章工具
+[文章封面图快速生成工具coverview](https://coverview.vercel.app/)
+
+
 
 ### 图标
 
