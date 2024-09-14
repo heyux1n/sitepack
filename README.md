@@ -73,7 +73,11 @@ favicon图标：[facicon图标](https://freeware.iconfactory.com/)
 
 ### 互联网
 
-[glados](https://glados.rocks/)
+- [glados](https://glados.rocks/)
+- [yundong](https://k-box.vip/)、[yundong-backup](https://www.gw-yd.com/)、[yundong](https://gw-yundong.vip/)
+- [xfltd](https://xfltd.org/)
+- [ouonet](https://board.ouonet.work/)
+- [测评](https://proxy-tz.gitbook.io/tools)
 
 sms：
 
