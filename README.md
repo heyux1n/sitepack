@@ -74,10 +74,11 @@ favicon图标：[facicon图标](https://freeware.iconfactory.com/)
 ### 互联网
 
 - [glados](https://glados.rocks/)
-- [yundong](https://k-box.vip/)、[yundong-backup](https://www.gw-yd.com/)、[yundong](https://gw-yundong.vip/)
-- [xfltd](https://xfltd.org/)
+- [yundong](https://yundong.xn--xhq8sm16c5ls.com/#/register?code=jVddQkoq)、[yundong](https://k-box.vip/)、[yundong-backup](https://www.gw-yd.com/)、[yundong](https://gw-yundong.vip/)
+- [xfltd](https://xfltd.org/#/register?code=JDfABTn4)
 - [ouonet](https://board.ouonet.work/)
 - [测评](https://proxy-tz.gitbook.io/tools)
+- [ikuuu](https://ikuuu.pw/auth/register?code=czWT)
 
 sms：
 
